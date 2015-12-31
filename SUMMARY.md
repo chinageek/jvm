@@ -18,8 +18,9 @@
 * java class文件
 * jvm常用工具
    * [visualvm](visualvm.md)
+   * [Memory Analyzer](analyzer.md)
 * [案例分析](anli.md)
    * [系统频繁Fullgc](fullgc.md)
-
+   * [String.intern](string.md)
    
 
