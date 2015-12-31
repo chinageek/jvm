@@ -1,4 +1,3 @@
-# String.intern()
+# Java6,7,8中的String.intern() – 字符串常量池
 
-正在翻译这篇文章 http://java-performance.info/string-intern-in-java-6-7-8/
-
+http://www.javaranger.com/archives/1852
