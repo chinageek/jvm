@@ -15,7 +15,7 @@
    * [类加载过程](lei_jia_zai_guo_cheng.md)
    * [类加载原理](lei_jia_zai_yuan_li.md)
    * [类加载器](JVM_lei_jia_zai_qi.md)
-* java class文件
+* [java class文件解析](java_class.md)
 * jvm常用工具
    * [visualvm](visualvm.md)
    * [Memory Analyzer](analyzer.md)
